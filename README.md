@@ -6,4 +6,4 @@ Python 3.10+
 To run:
 python3 -m venv venv
 
-sourceFolder venv/bin/activate
+source venv/bin/activate
